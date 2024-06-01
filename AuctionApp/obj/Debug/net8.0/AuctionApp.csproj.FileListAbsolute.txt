@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.AssemblyInfo.cs
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.RazorAssemblyInfo.cache
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.RazorAssemblyInfo.cs
+C:\Users\asus\source\repos\AuctionApp\AuctionApp\obj\Debug\net8.0\AuctionApp.sourcelink.json
